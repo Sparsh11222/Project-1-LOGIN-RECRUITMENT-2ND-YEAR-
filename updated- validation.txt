@@ -1,0 +1,2 @@
+tried fixing the zoom levels,ended up ruining the whole project,
+So i have added validation to the form,zoom error still exists

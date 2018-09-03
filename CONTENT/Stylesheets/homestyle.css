@@ -1,0 +1,25 @@
+body{
+  zoom: 175%;
+}
+input[type="submit"]
+{display: block;
+  width: 70px;
+  height: 15px;
+  border: 2px; border-color: white;
+  background: white;
+  color: black;
+  font-family: Agency FB;
+  font-size: 10px;
+}
+input[id='2']
+{
+  margin-top: 2px; margin-left: 140px;
+}
+input[id='3']
+{
+  margin-top: -15px; margin-left: 213px;
+}
+input[id='1']
+{width: 143px;
+  margin-top: 100px; margin-left: 140px;
+}

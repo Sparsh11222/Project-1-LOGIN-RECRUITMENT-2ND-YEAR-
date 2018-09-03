@@ -1,0 +1,14 @@
+Made BY= SPARSH Gupta
+
+->the pages made are meant to be seen at a certain zoom level,
+ i have mentioned them in the style sheets but sometimes they don't work,
+Sorry for that
+
+->Start by viewing "home.html"
+->Screenshots are also included
+                                                        -Thank you
+
+view home at 175% zoom
+form at 67%
+action at 67%
+about and photos at 70%

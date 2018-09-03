@@ -1,0 +1,58 @@
+body{
+zoom=75%;
+}
+input[type="submit"]
+{display: block;
+
+  width: 200px;
+  height: 50px;
+  border: none;
+  background: black;
+  color: grey;
+  font-family: Agency FB;
+  font-size: 40px;
+
+}
+input[id='1']
+{
+
+ margin-top: 0px;  margin-left: 1100px; margin-bottom: -100px;
+
+}input[id='2']
+{
+
+ margin-top: 50px;  margin-left: 1300px;
+ }
+ input[id='3']
+ {
+
+  margin-top: -50px;  margin-left: 1500px;
+  }
+
+  p[id='a']
+  {margin-left: -600px;
+    font-size: 20px;
+    font-family: Agency FB;text-align: center;
+  }
+  p[id='b']
+  {margin-top: -409px;
+    margin-left: 685px;font-size: 20px;
+    font-family: Agency FB;text-align: center;
+  }
+  p[id='c']
+  {
+    margin-left: -600px;
+    font-size: 20px;
+    font-family: Agency FB;text-align: center;
+  }
+  p[id='d']
+  {margin-top: -409px;
+    margin-left: 685px;font-size: 20px;
+    font-family: Agency FB;text-align: center;
+  }
+p[id='e']
+{text-align: center;
+  margin-left: 40px;
+  font-size: 20px;
+  font-family: Agency FB;
+}
